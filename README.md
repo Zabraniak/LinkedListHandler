@@ -65,7 +65,7 @@ A C compiler (e.g., GCC)
 | ![LinkedList1](https://i.imgur.com/zrxFYV4.png) | ![LinkedList2](https://i.imgur.com/eTAuh9b.png) |
 
 ## Contributing
-Contributions are welcome! If you have any improvements or new features to add, feel free to fix this repository, make your changes, and submit a pull request.
+Contributions are welcome! If you have any improvements or new features to add, feel free to fork this repository, make your changes, and submit a pull request.
 
 ## License
 This project is licensed under the MIT License.
